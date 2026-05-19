@@ -1,0 +1,5 @@
+customtkinter==5.2.1
+pygame==2.5.2
+windnd==1.0.0
+
+
